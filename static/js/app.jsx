@@ -1165,17 +1165,17 @@ function HeroSection() {
             engineered to bridge natural language and geometry-native execution.
           </p>
           <div className="cta-group">
-            <a className="button cta-button is-primary" href="#">
+            <a className="button cta-button is-primary" href="https://arxiv.org/abs/2511.13647" target="_blank" rel="noopener noreferrer">
               <span className="icon">
                 <i className="fas fa-file-alt" />
               </span>
-              <span>Paper (Coming Soon)</span>
+              <span>Paper</span>
             </a>
-            <a className="button cta-button" href="#">
+            <a className="button cta-button" href="https://github.com/AiEson/Part-X-MLLM" target="_blank" rel="noopener noreferrer">
               <span className="icon">
                 <i className="fab fa-github" />
               </span>
-              <span>Code (Coming Soon)</span>
+              <span>Code</span>
             </a>
             <a className="button cta-button" href="#playground">
               <span className="icon">
