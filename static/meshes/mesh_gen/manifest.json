@@ -1,0 +1,11 @@
+[
+  { "id": "mesh_01", "label": "mesh_01", "src": "./static/meshes/mesh_gen/01.glb" },
+  { "id": "mesh_02", "label": "mesh_02", "src": "./static/meshes/mesh_gen/02.glb" },
+  { "id": "mesh_03", "label": "mesh_03", "src": "./static/meshes/mesh_gen/03.glb" },
+  { "id": "mesh_04", "label": "mesh_04", "src": "./static/meshes/mesh_gen/04.glb" },
+  { "id": "mesh_05", "label": "mesh_05", "src": "./static/meshes/mesh_gen/05.glb" },
+  { "id": "mesh_06", "label": "mesh_06", "src": "./static/meshes/mesh_gen/06.glb" },
+  { "id": "mesh_07", "label": "mesh_07", "src": "./static/meshes/mesh_gen/07.glb" },
+  { "id": "mesh_08", "label": "mesh_08", "src": "./static/meshes/mesh_gen/08.glb" },
+  { "id": "mesh_09", "label": "mesh_09", "src": "./static/meshes/mesh_gen/09.glb" }
+]

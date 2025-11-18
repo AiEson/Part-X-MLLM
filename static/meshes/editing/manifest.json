@@ -1,0 +1,74 @@
+[
+  {
+    "id": "demo_edit_01",
+    "label": "edit_01",
+    "srcGlb": "./static/meshes/editing/01_src.glb",
+    "tarGlb": "./static/meshes/editing/01_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/01_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/01_tar.png"
+  },
+  {
+    "id": "demo_edit_02",
+    "label": "edit_02",
+    "srcGlb": "./static/meshes/editing/02_src.glb",
+    "tarGlb": "./static/meshes/editing/02_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/02_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/02_tar.png"
+  },
+  {
+    "id": "demo_edit_03",
+    "label": "edit_03",
+    "srcGlb": "./static/meshes/editing/03_src.glb",
+    "tarGlb": "./static/meshes/editing/03_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/03_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/03_tar.png"
+  },
+  {
+    "id": "demo_edit_04",
+    "label": "edit_04",
+    "srcGlb": "./static/meshes/editing/04_src.glb",
+    "tarGlb": "./static/meshes/editing/04_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/04_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/04_tar.png"
+  },
+  {
+    "id": "demo_edit_05",
+    "label": "edit_05",
+    "srcGlb": "./static/meshes/editing/05_src.glb",
+    "tarGlb": "./static/meshes/editing/05_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/05_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/05_tar.png"
+  },
+  {
+    "id": "demo_edit_06",
+    "label": "edit_06",
+    "srcGlb": "./static/meshes/editing/06_src.glb",
+    "tarGlb": "./static/meshes/editing/06_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/06_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/06_tar.png"
+  },
+  {
+    "id": "demo_edit_07",
+    "label": "edit_07",
+    "srcGlb": "./static/meshes/editing/07_src.glb",
+    "tarGlb": "./static/meshes/editing/07_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/07_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/07_tar.png"
+  },
+  {
+    "id": "demo_edit_10",
+    "label": "edit_08",
+    "srcGlb": "./static/meshes/editing/10_src.glb",
+    "tarGlb": "./static/meshes/editing/10_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/10_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/10_tar.png"
+  },
+  {
+    "id": "demo_edit_09",
+    "label": "edit_09",
+    "srcGlb": "./static/meshes/editing/09_src.glb",
+    "tarGlb": "./static/meshes/editing/09_tar.glb",
+    "srcThumb": "./static/meshes/editing/rendered/09_src.png",
+    "tarThumb": "./static/meshes/editing/rendered/09_tar.png"
+  }
+]
