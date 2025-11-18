@@ -1,6 +1,6 @@
 # Part-X-MLLM: Part-aware 3D Multimodal Large Language Model
 
-> Paper: [![arXiv](https://img.shields.io/badge/arXiv-2511.13647-b31b1b.svg)](https://arxiv.org/abs/2511.13647)
+> Paper: [![arXiv](https://img.shields.io/badge/arXiv-2511.13647-b31b1b.svg)](https://arxiv.org/abs/2511.13647), Project Leader: [Junliang Ye](https://jamesyjl.github.io/)
 
 ![overview](assets/pipeline.png)
 
