@@ -1,6 +1,28 @@
 # Part-X-MLLM: Part-aware 3D Multimodal Large Language Model
 
-> Paper: [![arXiv](https://img.shields.io/badge/arXiv-2511.13647-b31b1b.svg)](https://arxiv.org/abs/2511.13647), Project Leader: [Junliang Ye](https://jamesyjl.github.io/)
+<div align="center">
+<p align="center">
+    Paper: <a href="https://arxiv.org/abs/2511.13647"><img src='https://img.shields.io/badge/arXiv-2511.13647-b31b1b.svg' alt='arXiv'></a> &emsp;
+    Project Page: <a href='https://chunshi.wang/Part-X-MLLM/'>Part-X-MLLM</a>
+</p>
+    <a href="https://chunshi.wang/" target="_blank">Chunshi Wang</a><sup>†1,2</sup>,
+    <a href="https://jamesyjl.github.io/" target="_blank">Junliang Ye</a><sup>†,‡,3,2</sup>,
+    <a href="https://yhyang-myron.github.io/" target="_blank">Yunhan Yang</a><sup>†,4,2</sup>,
+    <a href="https://yang-l1.github.io/" target="_blank">Yang Li</a><sup>2</sup>,
+    Zizhuo Lin<sup>1</sup>,
+    <a href="https://ml.cs.tsinghua.edu.cn/~jun/" target="_blank">Jun Zhu</a><sup>3</sup>,
+    Zhuo Chen<sup>2</sup>,
+    <a href="https://scholar.google.com/citations?user=pnVwaGsAAAAJ" target="_blank">Yawei Luo</a><sup>✉,1</sup>,
+    Chunchao Guo<sup>✉,2</sup>
+</div>
+<div align="center">
+    <sup>1</sup>Zhejiang University&emsp; <sup>2</sup>Tencent Hunyuan&emsp; <sup>3</sup>Tsinghua University&emsp; <sup>4</sup>The University of Hong Kong
+</div>
+<div align="center">
+    <sup>†</sup>Equal Contribution&emsp; <sup>‡</sup>Project Lead&emsp; <sup>✉</sup>Corresponding Author
+</div>
+
+---
 
 ![overview](assets/pipeline.png)
 
