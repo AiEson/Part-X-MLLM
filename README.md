@@ -1,25 +1,32 @@
-# Part-X-MLLM: Part-aware 3D Multimodal Large Language Model
+<p align="center">
+  <h3 align="center"><strong>Part-X-MLLM: Part-aware 3D Multimodal Large Language Model</strong></h3>
+    
+<p align="center">
+    <a href="https://chunshi.wang/">Chunshi Wang</a><sup>1,2†</sup>,
+    <a href="https://jamesyjl.github.io/">Junliang Ye</a><sup>2,3†‡</sup>,
+    <a href="https://yhyang-myron.github.io/">Yunhan Yang</a><sup>2,4†</sup>,
+    <a href="https://yang-l1.github.io/">Yang Li</a><sup>2</sup>,<br>
+    Zizhuo Lin<sup>1</sup>,
+    <a href="https://ml.cs.tsinghua.edu.cn/~jun/">Jun Zhu</a><sup>3</sup>,
+    Zhuo Chen<sup>2</sup>,
+    <a href="https://scholar.google.com/citations?user=pnVwaGsAAAAJ">Yawei Luo</a><sup>1✉</sup>,
+    Chunchao Guo<sup>2✉</sup>
+    <br>
+    <sup>†</sup>Equal Contribution.
+    <sup>‡</sup>Project Lead.
+    <sup>✉</sup>Corresponding Authors.
+    <br>
+    <sup>1</sup>Zhejiang University,
+    <sup>2</sup>Tencent Hunyuan,
+    <sup>3</sup>Tsinghua University,
+    <sup>4</sup>The University of Hong Kong
+</p>
 
 <div align="center">
-<p align="center">
-    Paper: <a href="https://arxiv.org/abs/2511.13647"><img src='https://img.shields.io/badge/arXiv-2511.13647-b31b1b.svg' alt='arXiv'></a> &emsp;
-    Project Page: <a href='https://chunshi.wang/Part-X-MLLM/'>Part-X-MLLM</a>
-</p>
-    <a href="https://chunshi.wang/" target="_blank">Chunshi Wang</a><sup>†1,2</sup>,
-    <a href="https://jamesyjl.github.io/" target="_blank">Junliang Ye</a><sup>†,‡,3,2</sup>,
-    <a href="https://yhyang-myron.github.io/" target="_blank">Yunhan Yang</a><sup>†,4,2</sup>,
-    <a href="https://yang-l1.github.io/" target="_blank">Yang Li</a><sup>2</sup>,
-    Zizhuo Lin<sup>1</sup>,
-    <a href="https://ml.cs.tsinghua.edu.cn/~jun/" target="_blank">Jun Zhu</a><sup>3</sup>,
-    Zhuo Chen<sup>2</sup>,
-    <a href="https://scholar.google.com/citations?user=pnVwaGsAAAAJ" target="_blank">Yawei Luo</a><sup>✉,1</sup>,
-    Chunchao Guo<sup>✉,2</sup>
-</div>
-<div align="center">
-    <sup>1</sup>Zhejiang University&emsp; <sup>2</sup>Tencent Hunyuan&emsp; <sup>3</sup>Tsinghua University&emsp; <sup>4</sup>The University of Hong Kong
-</div>
-<div align="center">
-    <sup>†</sup>Equal Contribution&emsp; <sup>‡</sup>Project Lead&emsp; <sup>✉</sup>Corresponding Author
+
+<a href="https://arxiv.org/abs/2511.13647"><img src="https://img.shields.io/badge/arXiv-2511.13647-b31b1b.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://chunshi.wang/Part-X-MLLM/"><img src="https://img.shields.io/badge/Project-Page-Green"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 ---
@@ -32,13 +39,18 @@ We introduce **Part-X-MLLM**, a native 3D multimodal large language model that u
 ## Citation
 
 ```bibtex
-@misc{wang2025partxmllmpartaware3dmultimodal,
-      title={Part-X-MLLM: Part-aware 3D Multimodal Large Language Model}, 
-      author={Chunshi Wang and Junliang Ye and Yunhan Yang and Yang Li and Zizhuo Lin and Jun Zhu and Zhuo Chen and Yawei Luo and Chunchao Guo},
-      year={2025},
-      eprint={2511.13647},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.13647}, 
+@inproceedings{wang2026part,
+  title={Part-x-mllm: Part-aware 3d multimodal large language model},
+  author={Wang, Chunshi and Ye, Junliang and Yang, Yunhan and Li, Yang and Lin, Zizhuo and Zhu, Jun and Chen, Zhuo and Luo, Yawei and Guo, Chunchao},
+  booktitle={International Conference on Learning Representations},
+  volume={2026},
+  pages={150386--150417},
+  year={2026}
+}
+@article{ye2026hunyuan3d,
+  title={Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing},
+  author={Ye, Junliang and Liu, Kenkun and Wang, Guocun and Li, Yang and Qu, Yansong and Wang, Chunshi and Xu, Jingwei and Yang, Yunhan and Zhao, Zibo and Xu, Jiachen and others},
+  journal={arXiv preprint arXiv:2608.02711},
+  year={2026}
 }
 ```
